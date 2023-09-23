@@ -1,5 +1,4 @@
 # banking-dataset-analysis
-# Bank Dataset Analysis
 
 ***
 [[Project Description/Goals](#project_description_goals)]

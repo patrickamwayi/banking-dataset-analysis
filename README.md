@@ -14,7 +14,6 @@ ___
 ## <a name="project_description_goals"></a>Project Description/Goals:
 
 Bank Dataset Analysis
-- About the Project
 - This project is about identifying characteristics for marketing analysis for individuals in banking clientele.
 
 ### Business understanding

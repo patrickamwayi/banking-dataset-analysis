@@ -13,13 +13,13 @@ ___
 
 ## <a name="project_description_goals"></a>Project Description/Goals:
 
-Banking
-About the Project
-This project is about identifying characteristics for marketing analysis for individuals in banking clientele.
+Bank Dataset Analysis
+- About the Project
+- This project is about identifying characteristics for marketing analysis for individuals in banking clientele.
 
 ### Business understanding
 Project Goal
-The goal for this project is to answer initial questions, and analyze the characteristics for banking clientele for marketing purposes. Business goals include which demographic of individuals to create marking improvements on.
+- The goal for this project is to answer initial questions, and analyze the characteristics for banking clientele for marketing purposes. Business goals include which demographic of individuals to create marking improvements on.
 
 ### Data understanding
 The banking dataset analysis data was obtained from Kaggle open-source dataset. It is stored in a csv file, named as "test.csv" and "train.cvs". It has 17 columns called features, including 45211 and 4521 row numbers. The fetures are age, job, marital, education, default, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome and y. 

@@ -51,7 +51,7 @@ The project's objective is to predict whether a client will agree to a term depo
 
 ## <a name="planning"></a>Planning:
 
-- Create README.md with data dictionary, project and business goals, and come up with initial hypotheses.
+- Create README.md with data dictionary, project and business goals.
 
 
 
